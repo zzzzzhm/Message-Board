@@ -5,7 +5,7 @@ Built with **FastAPI** on the backend and **React + Vite** on the frontend.
 
 ## 🧰 Tech Stack
 
-- **Backend**: FastAPI, Pydantic, Uvicorn
+- **Backend**: FastAPI, Uvicorn
 - **Frontend**: React, Vite
 - **Data Handling**: In-memory storage using Python `List`
 - **Static Serving**: Frontend bundled and served by FastAPI via `StaticFiles`
