@@ -18,5 +18,4 @@ Built with **FastAPI** on the backend and **React + Vite** on the frontend.
 - All static files are served by the FastAPI backend
 - Lightweight and deployable on Replit, Render, or any cloud server
 
-## 📁 Project Structure
 
